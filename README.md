@@ -1,6 +1,6 @@
 # Results Summary Component
 
-![Preview](./assets/images/preview.jpg)
+![Preview](design/active-states.jpg)
 
 A responsive results summary component built with HTML and CSS. Features gradient backgrounds, interactive elements, and mobile-first design principles.
 
@@ -53,4 +53,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 
-- GitHub: https://github.com/MahmouAli-95/results-summary-component.git
+- GitHub: https://github.com/MahmoudAli-95/results-summary-component.git
